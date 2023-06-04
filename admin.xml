@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<admin>
+    <korisnik>
+        <korisnickoime>admin</korisnickoime>
+        <lozinka>admin123</lozinka>
+    </korisnik>
+</admin>
