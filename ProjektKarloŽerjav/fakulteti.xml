@@ -1,0 +1,1806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fakulteti>
+    <fakultet id="1">
+        <Naziv>AGRONOMSKI FAKULTET</Naziv>
+        <Dekan>prof. dr. sc. Ivica Kisića</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Svetošimunska cesta 25, 10000 Zagreb</Adresa>
+        <MaticniBroj>3283097</MaticniBroj>
+        <OIB>76023745044</OIB>
+        <Email>referada@agr.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Agrarna ekonomika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Agroekologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Animalne znanosti</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Biljne znanosti</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Ekološka poljoprivreda</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Fitomedicina</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Hortikultura</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Krajobrazna arhitektura</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Poljoprivredna tehnika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Zaštita bilja</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Agrobiznis i ruralni razvitak</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Agroekologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Biljne znanosti</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Ekološka poljoprivreda i agroturizam</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Fitomedicina</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Genetika i oplemenjivanje životinja</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Hortikultura</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Hranidba životinja i hrana</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>INTER-ENAGRO</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Krajobrazna arhitektura</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Mediteranska poljoprivreda</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Obnovljivi izvori energije u poljoprivredi</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Poljoprivredna tehnika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Proizvodnja i predrada mesa</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Proizvodnja i predrada mlijeka</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Ribarstvo i lovstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="2">
+        <Naziv>AKADEMIJA DRAMSKE UMJETNOSTI</Naziv>
+        <Dekan>izv. prof. art. Davor Švaić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Umjetnička akademija</Vrsta>
+        <Adresa>Trg Republike Hrvatske 5, 10000 Zagreb</Adresa>
+        <MaticniBroj>03205029</MaticniBroj>
+        <OIB>52097842295</OIB>
+        <Email>dekanat@adu.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Baletna pedagogija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dramaturgija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Filmska i televizijska režija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Gluma</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kazališna režija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Montaža</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Produkcija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Snimanje</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Suvremeni ples</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dramaturgija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Filmska i televizijska režija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Gluma</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kazališna režija i radiofonija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Montaža</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Produkcija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Snimanje</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="3">
+        <Naziv>AKADEMIJA LIKOVNIH UMJETNOSTI</Naziv>
+        <Dekan>Prof.art. Tomislav Buntak</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Umjetnička akademija</Vrsta>
+        <Adresa>Ilica 85, 10000 Zagreb</Adresa>
+        <MaticniBroj>03207919</MaticniBroj>
+        <OIB>95847257607</OIB>
+        <Email>dekanat@alu.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Animirani film i novi mediji</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Grafika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kiparstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Likovna kultura</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Slikarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Animirani film i novi mediji</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Grafika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kiparstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Likovna kultura; smjer Nastavnički</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Slikarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="4">
+        <Naziv>ARHITEKTONSKI FAKULTET</Naziv>
+        <Dekan>Dr. sc. Bojan Baletić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Fra Andrije Kačića Miošića 26, 10000 Zagreb</Adresa>
+        <MaticniBroj>3204952</MaticniBroj>
+        <OIB>42061107444</OIB>
+        <Email>infoaf@arhitekt.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Arhitektura i urbanizam</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dizajn</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Arhitektura i urbanizam</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dizajn - Infustrijski dizajn</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dizajn - Vizualne komunikacije</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="5">
+        <Naziv>EDUKACIJSKO-REHABILITACIJSKI FAKULTET</Naziv>
+        <Dekan>izv. prof. dr. sc. Ante Bilić Prcić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Borongajska cesta 83f, 10000 Zagreb</Adresa>
+        <MaticniBroj>3219780</MaticniBroj>
+        <OIB>34967762426</OIB>
+        <Email>dekan@erf.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Logopedija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Rehabilitacija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Socijalna pedagogija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Edukacijska rehabilitacija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Logopedija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Socijalna pedagogija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="6">
+        <Naziv>EKONOMSKI FAKULTET</Naziv>
+        <Dekan>Prof. dr. sc. Sanja Sever Mališ</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Trg J. F. Kennedya 6, 10000 Zagreb</Adresa>
+        <MaticniBroj>03272079</MaticniBroj>
+        <OIB>27208467122</OIB>
+        <Email>rkrcar@efzg.hr </Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Bachelor Degree in Business</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Bachelor Degree in Economics</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Ekonomija</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Poslovna ekonomija</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Economics</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Ekonomija</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Poslovna ekonomija</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="7">
+        <Naziv>FAKULTET ELEKTROTEHNIKE I RAČUNARSTVA</Naziv>
+        <Dekan>prof. dr. sc. Vedran Bilas</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Unska 3, 10000 Zagreb</Adresa>
+        <MaticniBroj>3276643</MaticniBroj>
+        <OIB>57029260362</OIB>
+        <Email>fer@fer.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Computing</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Electrical Engineering and Information Technology</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Elektrotehnika i informacijska tehnologija i Računarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Computing</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Electrical Engineering and Information Technology</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Elektrotehnika i informacijska tehnologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Informacijska i komunikacijska tehnologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Information and Communication Technology</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Računarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Zajednički dio studija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="8">
+        <Naziv>FAKULTET FILOZOFIJE I RELIGIJSKIH ZNANOSTI</Naziv>
+        <Dekan>Prof. dr. sc. Ivan Šestak</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Jordanovac 110, 10000 Zagreb</Adresa>
+        <MaticniBroj>1235664</MaticniBroj>
+        <OIB>26975482530</OIB>
+        <Email>info@ffrz.unzg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Filozofija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Filozofija i latinski jezik</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Filozofija i religijske znanosti</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Filozofija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Religijske znanosti</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="9"> 
+        <Naziv>FAKULTET HRVATSKIH STUDIJA</Naziv>
+        <Dekan>Prof. dr. sc. Mario Grčević</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Borongajska cesta 83d, 10000 Zagreb</Adresa>
+        <MaticniBroj>5214068</MaticniBroj>
+        <OIB>99454315441</OIB>
+        <Email>info@hrstud.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Dvopredmetni</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Komunikologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kroatologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Povijest</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Psihologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Sociologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dvopredmetni diplomski studij</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Hrvatski latinitet</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Komunikologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kroatologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Povijest</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Psihologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Sociologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="10">
+        <Naziv>FAKULTET KEMIJSKOG INŽENJERSTVA I TEHNOLOGIJE</Naziv>
+        <Dekan>prof. dr. sc. Ante Jukić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Trg Marka Marulića 19, 10000 Zagreb</Adresa>
+        <MaticniBroj>3250270</MaticniBroj>
+        <OIB>71259740533</OIB>
+        <Email>office@fkit.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Ekoinženjerstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kemija i inženjerstvo materijala</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kemijsko inženjerstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Primijenjena kemija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Chemical and Environmental Technology</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Ekoinženjerstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kemija i inženjerstvo materijala</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kemijsko inženjerstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Primijenjena kemija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="11">
+        <Naziv>FAKULTET POLITIČKIH ZNANOSTI</Naziv>
+        <Dekan>Izv. prof. dr. sc. Andrija Henjak</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Lepušićeva 6, 10000 Zagreb</Adresa>
+        <MaticniBroj>03270262</MaticniBroj>
+        <OIB>28011548575</OIB>
+        <Email>dekanat@fpzg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Preddiplomski sveučilišni studij Novinarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Preddiplomski sveučilišni studij Politologija</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Diplomski sveučilišni studij Novinarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Diplomski sveučilišni studij Politologija</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Diplomski sveučilišni studij Politologija; smjer: Nacionalna sigurnost</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Master of European Studies</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="12">
+        <Naziv>FAKULTET PROMETNIH ZNANOSTI</Naziv>
+        <Dekan>izv. prof. dr. sc. Marko Šoštarić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Vukelićeva 4, 10000 Zagreb</Adresa>
+        <MaticniBroj>03260771</MaticniBroj>
+        <OIB>25410051374</OIB>
+        <Email>fpz@fpz.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Aeronautika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Inteligentni transportni sustavi i logistika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Promet</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Aeronautika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Inteligentni transportni sustavi i logistika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Promet</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="13">
+        <Naziv>FAKULTET STROJARSTVA I BRODOGRADNJE</Naziv>
+        <Dekan>prof. dr. sc. Zdenko Tonković</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Ivana Lučića 5, 10000 Zagreb</Adresa>
+        <MaticniBroj>3276546</MaticniBroj>
+        <OIB>22910368449</OIB>
+        <Email>fsb@fsb.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Brodogradnja</Studij>
+            <TrajanjeSemestara>7</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Brodogradnja</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Mehatronika i robotika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Strojarstvo</Studij>
+            <TrajanjeSemestara>7</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Strojarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Zrakoplovno inženjerstvo</Studij>
+            <TrajanjeSemestara>7</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Zrakoplovno inženjerstvo i svemirska tehnika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Zrakoplovstvo</Studij>
+            <TrajanjeSemestara>7</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Brodogradnja</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Strojarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Procesna tehnika</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Termotehnika</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Zrakoplovno inženjerstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Zrakoplovstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="14">
+        <Naziv>FAKULTET ŠUMARSTVA I DRVNE TEHNOLOGIJE</Naziv>
+        <Dekan>prof. dr. sc. Zdenko Tonković</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Svetošimunska cesta 23, 10000 Zagreb</Adresa>
+        <MaticniBroj>3276546</MaticniBroj>
+        <OIB>22910368449</OIB>
+        <Email>dekanat@sumfak.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Drvna tehnologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Šumarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Urbano šumarstvo, zaštita prirode i okoliša</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Drvnotehnološki procesi</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Drvotehnološki procesi</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Oblikovanje proizvoda drva</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Oblikovanje proizvoda od drva</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Šumarstvo; smjer: Tehnika, tehnologija i managment u šumarstvu</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Šumarstvo; smjer: Uzgajanje i uređivanje šuma s lovnim gospodarenjem</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Urbano šumarstvo, zaštita prirode i okoliša</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="15">
+        <Naziv>FAKULTET ŠUMARSTVA I DRVNE TEHNOLOGIJE</Naziv>
+        <Dekan>prof. dr. sc. Jasmina Lovrić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>A.Kovačića 1, 10000 Zagreb</Adresa>
+        <MaticniBroj>03205037</MaticniBroj>
+        <OIB>14509285435</OIB>
+        <Email>dekanat@pharma.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Farmacija</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Medicinska biokemija</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="16">
+        <Naziv>FILOZOFSKI FAKULTET</Naziv>
+        <Dekan>izv. prof. dr. sc. Domagoj Tončinić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Ivana Lučića 3, 10000 Zagreb</Adresa>
+        <MaticniBroj>3254852</MaticniBroj>
+        <OIB>90633715804</OIB>
+        <Email>ured_dekana@ffzg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Dvopredmetni preddiplomski studij</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dvopredmetni preddiplomski studij</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Jednopredmetni preddiplomski studij</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Jednopredmetni preddiplomski studij</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dvopredmetni diplomski studij</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dvopredmetni diplomski studij</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Jednopredmetni diplomski studij</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Jednopredmetni diplomski studij</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="17">
+        <Naziv>GEODETSKI FAKULTET</Naziv>
+        <Dekan>prof. dr. sc. Almin Đapo</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Kačićeva 26, 10000 Zagreb</Adresa>
+        <MaticniBroj>3204987</MaticniBroj>
+        <OIB>43594593297</OIB>
+        <Email>dekan@geof.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Geodezija i geoinformatika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geodezija i geoinformatika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="18">
+        <Naziv>GRAĐEVINSKI FAKULTET</Naziv>
+        <Dekan>prof.dr.sc. Domagoj Damjanović</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Kačićeva 26, 10000 Zagreb</Adresa>
+        <MaticniBroj>3227120</MaticniBroj>
+        <OIB>62924153420</OIB>
+        <Email>pisarnica@grad.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Građevinarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Građevinarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="19">
+        <Naziv>GRAFIČKI FAKULTET</Naziv>
+        <Dekan>prof. dr. sc. Klaudio Pap</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Getaldićeva 2, 10000 Zagreb</Adresa>
+        <MaticniBroj>3219763</MaticniBroj>
+        <OIB>25564990903</OIB>
+        <Email>info@grf.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Preddiplomski studij Grafička tehnologija, smjer: Dizajn grafičkih proizvoda</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Preddiplomski studij Grafička tehnologija, smjer: Tehničko - tehnološki</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Diplomski studij grafička tehnologija - smjer: Dizajn grafičkih proizvoda</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Diplomski studij grafička tehnologija - smjer: Tehničko-tehnološki, modul: Grafička tehnologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Diplomski studij grafička tehnologija - smjer: Tehničko-tehnološki, modul: Multimedij</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="20">
+        <Naziv>HRVATSKO KATOLIČKO SVEUČILIŠTE</Naziv>
+        <Dekan>prof. dr. sc. Dalibor Karlović</Dekan>
+        <NadredenaUstanova/>
+        <Vrsta>Sveučilište</Vrsta>
+        <Adresa>Ilica 242, 10000 Zagreb</Adresa>
+        <MaticniBroj>02437325</MaticniBroj>
+        <OIB>07730927366</OIB>
+        <Email>info@unicath.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Dvopredmetni preddiplomski</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Komunikologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Povijest</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Psihologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Sestrinstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Sociologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Diplomski sveučilišni studij Povijest (nastavnički)</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Komunikologija - Interkulturalna komunikacija i Novinarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Komunikologija - Znastveno istraživanje medija i odnosi s javnošću</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Povijest</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Povijest - usmjerenje Stari vijek i srednji vijek</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+             <Odabir>
+            <Studij>Povijest - usmjerenje Suvremena povijest</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Psihologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Sestrinstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Sociologija - Upravljanje i javne politike</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="21">
+        <Naziv>KATOLIČKI BOGOSLOVNI FAKULTET</Naziv>
+        <Dekan>prof. dr. sc. Mario Cifrak</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Vlaška 38 (lokacija: Voćarska cesta 106), 10000 Zagreb</Adresa>
+        <MaticniBroj>3703088</MaticniBroj>
+        <OIB>48987767944</OIB>
+        <Email>kbf@kbf.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Crkvena glazba (Institut za crkvenu glazbu)</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Teološko-religijske znanosti (Institut religijskih znanosti)</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Teološko-religijske znanosti (Institut religijskih znanosti) - dvopredmetni</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Crkvena glazba - glazbena pedagogija (Institut za crkvenu glazbu)</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Crkvena glazba - glazbena gregorijanika (Institut za crkvenu glazbu)</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Teološko-religijske znanosti (Institut religijskih znanosti)</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="22">
+        <Naziv>KINEZIOLOŠKI FAKULTET</Naziv>
+        <Dekan>prof. dr. sc. Mario Baić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Horvaćanski zavoj 15, 10000 Zagreb</Adresa>
+        <MaticniBroj>3274080</MaticniBroj>
+        <OIB>25329931628</OIB>
+        <Email>dekanat@kif.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Kineziologija</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Izobrazba trenera</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="23">
+        <Naziv>MEDICINSKI FAKULTET</Naziv>
+        <Dekan>prof. dr. sc. Slavko Orešković</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Šalata 3b, 10000 Zagreb</Adresa>
+        <MaticniBroj>3270211</MaticniBroj>
+        <OIB>45001686598</OIB>
+        <Email>katica.arambasic@mef.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Medicina</Studij>
+            <TrajanjeSemestara>12</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Medicina (na engleskom jeziku)</Studij>
+            <TrajanjeSemestara>12</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Sestrinstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="24">
+        <Naziv>MUZIČKA AKADEMIJA</Naziv>
+        <Dekan>PROF.ART. IGOR LEŠNIK</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Umjetnička akademija</Vrsta>
+        <Adresa>Trg Republike Hrvatske 12, 10000 Zagreb</Adresa>
+        <MaticniBroj>03205002</MaticniBroj>
+        <OIB>18422925218</OIB>
+        <Email>muza@muza.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Dirigiranje</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Glazbena pedagogija</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Glazbena pedagogija dvopredmetno</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kompozicija</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Muzikologija</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Muzikologija dvopredmetno</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Pjevanje</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Studij za instrumentaliste</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Teorija glazbe</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="25">
+        <Naziv>PRAVNI FAKULTET</Naziv>
+        <Dekan>Prof. dr. sc. Ivan Koprić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Trg Republike Hrvatske 14, 10000 Zagreb</Adresa>
+        <MaticniBroj>03014193</MaticniBroj>
+        <OIB>26416570803</OIB>
+        <Email>dekanat@pravo.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Socijalni rad</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Socijalna politika</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Socijalna politika - pripremni seminari</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Socijalni rad</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Socijalni rad - pripremni seminari</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Pravo</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="26">
+        <Naziv>PREHRAMBENO-BIOTEHNOLOŠKI FAKULTET</Naziv>
+        <Dekan>prof.dr.sc. Damir Ježek</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Pierottijeva 6, 10000 Zagreb</Adresa>
+        <MaticniBroj>03207102</MaticniBroj>
+        <OIB>47824453867</OIB>
+        <Email>dekan@pbf.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Biotehnologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Nutricionizam</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Prehrambena tehnologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Bioprocesno inženjerstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Molekularna biotehnologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Nutricionizam</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Prehrambeno inženjerstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Upravljanje sigurnošću hrane</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="27">
+        <Naziv>PRIRODOSLOVNO-MATEMATIČKI FAKULTET-MATEMATIČKI ODSJEK</Naziv>
+        <Dekan>prof.dr.sc. Mirko Planinić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Bijenička cesta 30, 10000 Zagreb</Adresa>
+        <MaticniBroj>03270149</MaticniBroj>
+        <OIB>28163265527</OIB>
+        <Email>pmf-mo@math.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Matematika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Matematika; smjer: nastavnički</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Biomedicinska matematika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Financijska i poslovna matematika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Matematička statistika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Matematika i informatika; smjer nastavnički</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Matematika; smjer nastavnički</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Primijenjena matematika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Računarstvo i matematika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Teorijska matematika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Matematika i fizika; smjer: nastavnički</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="28">
+        <Naziv>PRIRODOSLOVNO-MATEMATIČKI FAKULTET-PRIRODOSLOVNI ODSJECI</Naziv>
+        <Dekan>prof.dr.sc. Mirko Planinić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Horvatovac 102a, 10000 Zagreb</Adresa>
+        <MaticniBroj>03270149</MaticniBroj>
+        <OIB>28163265527</OIB>
+        <Email>dekanat@dekanat.pmf.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Biologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geofizika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geografija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kemija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Molekularna biologija</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Znanosti o okolišu</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Ekologija i zaštite prirode</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Eksperimentalna biologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Fizika - geofizika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geografija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geologija zaštite okoliša</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kemija; smjer: istraživački</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Kemija; smjer: nastavnički</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Molekularna biologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Znanosti o okolišu</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Biologija i kemija; smjer: nastavnički</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Fizika i informatika; smjer: nastavnički</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Fizika i kemija; smjer: nastavnički</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Fizika i tehnika; smjer: nastavnički</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Fizika; smjer: istraživački</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Fizika; smjer: nastavnički</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geografija i povijest</Studij>
+            <TrajanjeSemestara>10</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="29">
+        <Naziv>RUDARSKO-GEOLOŠKO-NAFTNI FAKULTET</Naziv>
+        <Dekan>Izv.prof.dr.sc. Vladislav Brkić</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Pierottijeva 6, 10000 Zagreb</Adresa>
+        <MaticniBroj>3207005</MaticniBroj>
+        <OIB>99534693762</OIB>
+        <Email>dekan@rgn.unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Geološko inženjerstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Naftno rudarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Rudarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geologija</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Geološko inženjerstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Naftno i geoenergetsko inženjerstvo i menadžment</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Naftno rudarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Petroleum and Geoenergy Engineering and Management </Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Rudarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="30">
+        <Naziv>STOMATOLOŠKI FAKULTET</Naziv>
+        <Dekan>prof. dr. sc. Zrinka Tarle</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Gundulićeva 5, 10000 Zagreb</Adresa>
+        <MaticniBroj>3204995</MaticniBroj>
+        <OIB>70221464726</OIB>
+        <Email>dekanat@sfzg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Dental Medicine</Studij>
+            <TrajanjeSemestara>12</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Dentalna medicina</Studij>
+            <TrajanjeSemestara>12</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="31">
+        <Naziv>SVEUČILIŠTE U ZAGREBU</Naziv>
+        <Dekan>Prof. dr. sc. Stjepan Lakušić</Dekan>
+        <NadredenaUstanova/>
+        <Vrsta>Sveučilište</Vrsta>
+        <Adresa>Trg Republike Hrvatske 14, 10000 Zagreb</Adresa>
+        <MaticniBroj>03211592</MaticniBroj>
+        <OIB>36612267447</OIB>
+        <Email>petar.bilobrk@unizg.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Energetska učinkovitost i obnovljivi izvori</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Vojno inženjerstvo</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Vojno vođenje i upravljanje</Studij>
+            <TrajanjeSemestara>8</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Vojno inženjerstvo</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Vojno vođenje i upravljanje</Studij>
+            <TrajanjeSemestara>2</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="32">
+        <Naziv>TEHNIČKO VELEUČILIŠTE U ZAGREBU</Naziv>
+        <Dekan>Prof. dr. sc. Jana Žiljak Gršić</Dekan>
+        <NadredenaUstanova/>
+        <Vrsta>Veleučilište</Vrsta>
+        <Adresa>Vrbik 8, 10000 Zagreb</Adresa>
+        <MaticniBroj>01398270</MaticniBroj>
+        <OIB>08814003451</OIB>
+        <Email>tvz@tvz.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Stručni prijediplomski studij Elektrotehnika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni prijediplomski studij Graditeljstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni prijediplomski studij Informatika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni prijediplomski studij Mehatronika</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni prijediplomski studij Računarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni prijediplomski studij Strojarstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni diplomski studij Strojarstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni diplomski studij Elektrotehnika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni diplomski studij Graditeljstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni diplomski studij Informatika</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Stručni diplomski studij Informatika(smjer računarstvo)</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="33">
+        <Naziv>TEKSTILNO-TEHNOLOŠKI FAKULTET</Naziv>
+        <Dekan>Prof. dr. sc. Anica Hursa Šajatović</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>prilaz baruna Filipovića 28, 10000 Zagreb</Adresa>
+        <MaticniBroj>3207064</MaticniBroj>
+        <OIB>43097527965</OIB>
+        <Email>fakultet@ttf.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Tekstilna tehnologija i inženjerstvo</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Tekstilni i modni dizajn</Studij>
+            <TrajanjeSemestara>6</TrajanjeSemestara>
+            <Razina>Sveučilišni prijediplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Tekstilna tehnologija i inženjerstvo</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Tekstilni i modni dizajn</Studij>
+            <TrajanjeSemestara>4</TrajanjeSemestara>
+            <Razina>Sveučilišni diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+    <fakultet id="34">
+        <Naziv>VETERINARSKI FAKULTET</Naziv>
+        <Dekan>prof. dr. sc. Marko Samardžija</Dekan>
+        <NadredenaUstanova>Sveučilište u Zagrebu</NadredenaUstanova>
+        <Vrsta>Fakultet</Vrsta>
+        <Adresa>Heinzelova 55, 10000 Zagreb</Adresa>
+        <MaticniBroj>03225755</MaticniBroj>
+        <OIB>36389528408</OIB>
+        <Email>info@vef.hr</Email>
+        <Studiji>
+            <Odabir>
+            <Studij>Veterinarska medicina</Studij>
+            <TrajanjeSemestara>12</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+            <Odabir>
+            <Studij>Veterinary Medicine in English</Studij>
+            <TrajanjeSemestara>12</TrajanjeSemestara>
+            <Razina>Sveučilišni integrirani prijediplomski i diplomski</Razina>
+            </Odabir>
+        </Studiji>
+    </fakultet>
+</fakulteti>
